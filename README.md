@@ -1,1 +1,5 @@
-# paladin
+Paladin
+=======
+
+Author: Angus Liu
+-----------------
